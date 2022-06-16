@@ -1,0 +1,10 @@
+(function(){var loadHandler=window['sl_{AA9AEF39-89AF-4013-AD8B-CF45DBBE57D1}'];loadHandler&&loadHandler(33, '<div id="spr0_30ed1e1d"><div id="spr1_30ed1e1d" class="kern slide"><img id="img1_30ed1e1d" src="data/img3.png" width="595px" height="842px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_30ed1e1d" class="kern slide"><div id="svg0_30ed1e1d" style="left:47.141px;top:47.036px;"><svg width="501" height="708" viewBox="-0.75 -0.75 501 708"><path fill="none" stroke="#ed7d31" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" d="M0.75,0.75 h497.718 v704.886 h-497.718 Z"/></svg></div><div id="spr3_30ed1e1d" style="left:56px;top:64px;"><img id="img0_30ed1e1d" src="data/img20.png" width="485" height="648" alt="Simpangan Kuartil:\
+ 𝑸 𝒅 = 𝟏 𝟐   𝑸 𝟑 − 𝑸 𝟏  = 1 2 (4−2) = 1 2  2 =1\
+Jadi, simpangan kuartil dari data tersebut adalah 1.\
+\
+Tahap 3 (Menafsirkan)\
+Melalui penyelesaian suatu permasalahan tersebut, apa yang kamu ketahui tentang ukuran penyebaran data (jangkauan, kuartil, jangkauan interkuartil, dan simpangan kuartil)?\
+Ukuran penyebaran data adalah ukuran yang menunjukkan seberapa jauh suatu data menyebar dari rata-ratanya. Ukuran penyebaran data terdiri dari jangkauan, kuartil, jangkauan interkuartil dan simpangan kuartil.\
+Jangkauan merupakan selisih antara data terbesar dengan data terkecil, jangkauan juga disebut dengan range data. Dalam hal ini range dari data lama waktu peserta didik bermain handphone adalah 2 jam.\
+Kuartil merupakan nilai yang membagi suatu data terurut menjadi empat bagian yang sama besar. Kuartil terdiri dari 3 macam yaitu kuartil bawah, tengah, dan atas. Dalam hal ini masing-masing kuartil yang diperoleh yaitu 2, 3 dan 4.\
+"/></div><div id="spr4_30ed1e1d" style="left:523.58px;top:783.278px;"><div style="width:0px;"><span id="txt0_30ed1e1d" data-width="20.002970" style="left:18.413px;top:9.686px;">29</span></div></div></div></div>', '{"s":[]}');})();

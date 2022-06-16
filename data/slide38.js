@@ -1,0 +1,8 @@
+(function(){var loadHandler=window['sl_{AA9AEF39-89AF-4013-AD8B-CF45DBBE57D1}'];loadHandler&&loadHandler(37, '<div id="spr0_30ed2e78"><div id="spr1_30ed2e78" class="kern slide"><img id="img1_30ed2e78" src="data/img3.png" width="595px" height="842px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_30ed2e78" class="kern slide"><div id="svg0_30ed2e78" style="left:47.141px;top:74.08px;"><svg width="501" height="472" viewBox="-0.75 -0.75 501 472"><path fill="none" stroke="#ff0000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" d="M0.75,0.75 h497.718 v468.01 h-497.718 Z"/></svg></div><div id="spr3_30ed2e78" style="left:57px;top:90px;"><img id="img0_30ed2e78" src="data/img24.png" width="484" height="446" alt="Median untuk data genap\
+𝑴𝒆=  𝒙  𝒏 𝟐    +𝒙  𝒏 𝟐 +𝟏  𝟐 \
+Keterangan:\
+𝑀𝑒=𝑀𝑒𝑑𝑖𝑎𝑛\
+𝑥=𝑁𝑖𝑙𝑎𝑖 𝑑𝑎𝑡𝑎 𝑘𝑒−𝑛\
+\
+Modus (Nilai yang sering muncul)\
+	Modus adalah nilai data yang sering muncul atau nilai yang memiliki jumlah frekuensi yang paling banyak. Ada tiga kemungkinan modus dalam penyajian data yaitu tidak ada, tunggal, atau lebih dari satu. Cara mencari modus pada data tunggal sangatlah muda, karena kita hanya perlu mencari data dengan frekuensi paling banyak."/></div><div id="spr4_30ed2e78" style="left:523.58px;top:783.278px;"><div style="width:0px;"><span id="txt0_30ed2e78" data-width="20.002970" style="left:18.413px;top:9.686px;">34</span></div></div></div></div>', '{"s":[]}');})();
